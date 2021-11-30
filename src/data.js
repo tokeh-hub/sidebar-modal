@@ -46,7 +46,7 @@ import {
   export const socials = [
     {
       id: 1,
-      url: 'https://www.twitter.com',
+      url: 'https://www.facebook.com',
       icon: <FaFacebook />,
     },
     {
@@ -56,17 +56,17 @@ import {
     },
     {
       id: 3,
-      url: 'https://www.twitter.com',
+      url: 'https://www.linkedIn.com',
       icon: <FaLinkedin />,
     },
     {
       id: 4,
-      url: 'https://www.twitter.com',
+      url: 'https://www.behance.com',
       icon: <FaBehance />,
     },
     {
       id: 5,
-      url: 'https://www.twitter.com',
+      url: 'https://www.sketch.com',
       icon: <FaSketch />,
     },
   ];
